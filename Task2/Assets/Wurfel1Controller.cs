@@ -62,11 +62,19 @@ public class Wurfel1Controller : MonoBehaviour
             _rigidbody.AddForce(_constantForce, 0, 0);
             simulateFlame();
             return;
+        } else
+        {
+            Console.WriteLine(Time.time);
         }
 
         _reachedTargetSpeed = true;
 
         simulateFlame(false);
+    }
+
+    private void Update()
+    {
+        
     }
 
     void simulateFlame(bool isGrowing = true)

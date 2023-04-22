@@ -43,8 +43,5 @@ public class SpringController : MonoBehaviour
         if (compressionLength < 0) return;
         _isCompressing = compressionLength > 0.01f;
         if (!_isCompressing) return;
-        var force = springConstant * compressionLength;
-        _springRigidbody.AddForce(force, 0, 0);
-        
     }
 }
