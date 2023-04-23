@@ -26,7 +26,7 @@ def plotDataOfCsv(plotData, pathToFile):
 
 def getUnitOfThingAndStuff(type):
     if type == 'impulse':
-        return 'kg * v'
+        return 'N * s'
     elif type == 'position':
         return 'm'
     elif type == 'velocity':
