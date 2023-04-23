@@ -3,7 +3,9 @@ Tasks are devided by folders. To run a task, open the folder in unity. Currently
 
 # Task 1
 <img width="751" alt="image" src="https://user-images.githubusercontent.com/11156050/233833521-379aa5bd-323f-491a-bada-382b1003b4c6.png">
-Description tbd
+Installation von Unity, Modellierung harmonische Schwingung nach Vorgaben.
+
+Die Details zur Aufgabe und Abgabe finden Sie auf Moodle, sie werden hier nicht mehr beschrieben (Description tbd)
 
 # Task 2
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/11156050/233833546-7f553d82-cee4-41dc-b364-aea90bba5a86.png">
