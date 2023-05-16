@@ -1,11 +1,12 @@
-# Physics Lab
-A Unity project modelling an harmonic oscillator. For use in “Physics Engines” module at ZHAW. This Unity project requires the Unity Editor LTS release [2021.3.17f1](https://unity.com/releases/editor/qa/lts-releases?version=2021.3 "Unity's LTS releases web page").
-
-![Physics Lab scene](physics_lab_scene.png "Physics Lab scene")
-
-## How to run 
-1. Download (or clone) this repository.
-2. In the Unity Hub, add the repository as a project and open it.
-3. In the Unity Editor, open the *HarmonicOscillator* scene in the *Scenes* directory.
-4. Click on the blue cube and adjust its mass and the spring constant in the inspector window.
-4. Press the *Play* button.
+# Bewertung Teil 2
+## Total Punkte (max 15): 
+AutorInnen: ********, Armando Shala, *************
+Bewertet durch: *********
+## Formales (noch nicht bewertet)
+- Titelblatt mit allen Namen: gut
+- Inhaltsverzeichnis, Zusammenfassung, Einleitung: gut
+### Theorie 9/10 Pt
+- Federkraft, Impuls: Theorie ist vollständig und gut beschrieben, jedoch fehlt in Kapitel 3.2 die Beschreibung, wie die Feder dimensioniert wurde.
+### Grafiken 5/5 Pt
+- Ort und Geschwindigkeit: gut
+- Impulse Würfel 1, 2 und Summe: gut
