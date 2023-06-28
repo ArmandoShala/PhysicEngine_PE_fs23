@@ -1,11 +1,21 @@
-# Physics Lab
-A Unity project modelling an harmonic oscillator. For use in “Physics Engines” module at ZHAW. This Unity project requires the Unity Editor LTS release [2021.3.17f1](https://unity.com/releases/editor/qa/lts-releases?version=2021.3 "Unity's LTS releases web page").
+# Bewertung Teil 3
+## Total Punkte ohne Schwingung (max 10): 10
+## Total Punkte mit Schwingung: (max 20+100): -
+(Die 100 Punkte werden als Kennzeichnung verwendet.)
 
-![Physics Lab scene](physics_lab_scene.png "Physics Lab scene")
+AutorInnen: **********, Armando Shala, **********,
 
-## How to run 
-1. Download (or clone) this repository.
-2. In the Unity Hub, add the repository as a project and open it.
-3. In the Unity Editor, open the *HarmonicOscillator* scene in the *Scenes* directory.
-4. Click on the blue cube and adjust its mass and the spring constant in the inspector window.
-4. Press the *Play* button.
+Bewertet durch: Timo Nigg
+
+## Formales 5/5 Pt (alle)
+- Titelblatt mit allen Namen: gut
+- Inhaltsverzeichnis, Zusammenfassung, Einleitung: gut
+## Theorie -/5 Pt (nur mit Schwingung)
+- Schwingung beschrieben:
+## Grafiken -/5 Pt (nur mit Schwingung)
+- Ort und Geschwindigkeit:
+## Video des Experiments 5/5 Pt (alle)
+- Ablauf deutlich sichtba
+
+
+(Unsere Gruppe hat Teil 3 nicht gemacht)
